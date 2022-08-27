@@ -5,4 +5,6 @@ In this repo [GuidoAlessandri](https://github.com/GuidoAlessandri) and I used ku
 
 Thank you again [kubowania](https://github.com/kubowania) for getting us started!
 
+Enjoy the game at https://annasus-96.github.io/memory-minecraft/!
+
 <img width="865" alt="screenshoot_memory" src="https://user-images.githubusercontent.com/110344832/187026021-7abf2aa1-b8ee-4ab8-83f8-b0df9e0c5616.png">
