@@ -16,6 +16,11 @@ body {
   background-size: cover;
 }
 
+@font-face {
+  font-family: 'Minecraft', sans-serif;
+  src: url("https://fonts.cdnfonts.com/css/minecraft-4");	
+}
+
 .testo, .timer {
   font-family: 'Minecraft', sans-serif;
   text-align: center;
